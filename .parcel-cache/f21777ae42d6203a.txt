@@ -1,0 +1,27 @@
+26
+40C:\Users\25671\Desktop\cv-1\package.json132829903599176140 0
+45C:\Users\25671\Desktop\cv-1\package-lock.json132829903599161704 0
+38C:\Users\25671\Desktop\cv-1\.gitignore132829903599111895 0
+39C:\Users\25671\Desktop\cv-1\src\main.js132829959786943781 0
+51C:\Users\25671\Desktop\cv-1\dist\style.8b91ec6b.css132829903599151743 0
+32C:\Users\25671\Desktop\cv-1\dist132829959788246243 1
+37C:\Users\25671\Desktop\cv-1\README.md132829903599111895 0
+49C:\Users\25671\Desktop\cv-1\dist\main.1f19ae8e.js132829903599141777 0
+31C:\Users\25671\Desktop\cv-1\src132829903599186047 1
+42C:\Users\25671\Desktop\cv-1\src\index.html132829954729232148 0
+41C:\Users\25671\Desktop\cv-1\src\style.css132829903599186047 0
+50C:\Users\25671\Desktop\cv-1\dist\index.65c7a1e5.js132829959788186368 0
+54C:\Users\25671\Desktop\cv-1\dist\index.65c7a1e5.js.map132829959788236233 0
+45C:\Users\25671\Desktop\cv-1\dist\index.js.map132829903599131806 0
+51C:\Users\25671\Desktop\cv-1\dist\index.af814d91.css132829936801292789 0
+55C:\Users\25671\Desktop\cv-1\dist\index.af814d91.css.map132829936801390255 0
+43C:\Users\25671\Desktop\cv-1\dist\index.html132829936801321201 0
+41C:\Users\25671\Desktop\cv-1\dist\index.js132829903599121843 0
+49C:\Users\25671\Desktop\cv-1\dist\main.0dc85351.js132829903599131806 0
+53C:\Users\25671\Desktop\cv-1\dist\main.0dc85351.js.map132829903599131806 0
+53C:\Users\25671\Desktop\cv-1\dist\main.1f19ae8e.js.map132829903599141777 0
+55C:\Users\25671\Desktop\cv-1\dist\style.8b91ec6b.css.map132829903599151743 0
+51C:\Users\25671\Desktop\cv-1\dist\style.e308ff8e.css132829903599151743 0
+55C:\Users\25671\Desktop\cv-1\dist\style.e308ff8e.css.map132829903599161704 0
+50C:\Users\25671\Desktop\cv-1\dist\style.e308ff8e.js132829903599161704 0
+54C:\Users\25671\Desktop\cv-1\dist\style.e308ff8e.js.map132829903599161704 0

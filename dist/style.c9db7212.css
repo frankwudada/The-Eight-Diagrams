@@ -15,16 +15,14 @@
   box-sizing: border-box;
 }
 
-#html {
+#demo {
   word-break: break-all;
 }
- /* CSS word-break 属性指定了怎样在单词内断行, break-all 意思是可在任意字符间断行 */
 
 #div1 {
   position: fixed;
   left: 50%;
   transform: translateX(-50%);
-  /* CSS transform 属性允许旋转、缩放、倾斜或平移给定元素 */
   top: 20px;
 }
 
@@ -32,7 +30,6 @@
   content: "";
   display: block;
   position: absolute;
-  /* CSS position 属性用于指定一个元素在文档中的定位方式 */
 }
 
 #div1::after {
@@ -57,4 +54,3 @@
     right: 0;
   }
 }
-/* 设置适应手机屏膜 */
